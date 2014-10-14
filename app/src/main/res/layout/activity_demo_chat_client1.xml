@@ -1,0 +1,61 @@
+<LinearLayout 
+xmlns:android="http://schemas.android.com/apk/res/android"
+android:orientation="vertical" 
+android:layout_width="fill_parent"
+android:layout_height="fill_parent">
+
+<ScrollView
+    android:id="@+id/scrollView1"
+    android:layout_width="fill_parent"
+    android:layout_height="0dip"
+    android:fillViewport="true"
+    android:layout_weight="1"  >
+
+    <EditText
+        android:id="@+id/textOutput"
+        android:editable="false"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:paddingLeft="5dp"
+        android:paddingRight="5dp"
+        android:paddingTop="5dp" />
+
+</ScrollView>
+
+<LinearLayout 
+    android:id="@+id/linearLayout1"
+    android:orientation="horizontal" 
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content" 
+    android:paddingLeft="5dp" 
+    android:paddingRight="5dp"
+    android:paddingBottom="5dp"
+    android:baselineAligned="true">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:text="Small Text"
+        android:id="@+id/userTextView" />
+
+    <EditText
+        android:id="@+id/textInput"
+        android:layout_gravity="bottom"
+        android:layout_width="0dip"
+        android:layout_height="45dp"
+        android:layout_weight="1"
+        android:hint="@string/entermdg"
+        >
+
+    </EditText>
+
+    <Button
+        android:id="@+id/btnSend"
+        android:layout_width="125dp"
+        android:layout_height="45dp"
+        android:text="@string/sendstring"
+        android:onClick="send">
+</Button>
+</LinearLayout>
+</LinearLayout>

@@ -1,0 +1,151 @@
+ECLIPSE ANDROID PROJECT IMPORT SUMMARY
+======================================
+
+Ignored Files:
+--------------
+The following files were *not* copied into the new Gradle project; you
+should evaluate whether these are still needed in your project and if
+so manually move them:
+
+* NewMessengerDiagram.ucls
+* Parse-1.5.0/
+* Parse-1.5.0/Parse-1.5.0-javadoc/
+* Parse-1.5.0/Parse-1.5.0-javadoc/allclasses-frame.html
+* Parse-1.5.0/Parse-1.5.0-javadoc/allclasses-noframe.html
+* Parse-1.5.0/Parse-1.5.0-javadoc/com/
+* Parse-1.5.0/Parse-1.5.0-javadoc/com/parse/
+* Parse-1.5.0/Parse-1.5.0-javadoc/com/parse/CountCallback.html
+* Parse-1.5.0/Parse-1.5.0-javadoc/com/parse/DeleteCallback.html
+* Parse-1.5.0/Parse-1.5.0-javadoc/com/parse/FindCallback.html
+* Parse-1.5.0/Parse-1.5.0-javadoc/com/parse/FunctionCallback.html
+* Parse-1.5.0/Parse-1.5.0-javadoc/com/parse/GetCallback.html
+* Parse-1.5.0/Parse-1.5.0-javadoc/com/parse/GetDataCallback.html
+* Parse-1.5.0/Parse-1.5.0-javadoc/com/parse/LocationCallback.html
+* Parse-1.5.0/Parse-1.5.0-javadoc/com/parse/LogInCallback.html
+* Parse-1.5.0/Parse-1.5.0-javadoc/com/parse/Parse.html
+* Parse-1.5.0/Parse-1.5.0-javadoc/com/parse/ParseACL.html
+* Parse-1.5.0/Parse-1.5.0-javadoc/com/parse/ParseAnalytics.html
+* Parse-1.5.0/Parse-1.5.0-javadoc/com/parse/ParseAnonymousUtils.html
+* Parse-1.5.0/Parse-1.5.0-javadoc/com/parse/ParseClassName.html
+* Parse-1.5.0/Parse-1.5.0-javadoc/com/parse/ParseCloud.html
+* Parse-1.5.0/Parse-1.5.0-javadoc/com/parse/ParseException.html
+* Parse-1.5.0/Parse-1.5.0-javadoc/com/parse/ParseFacebookUtils.html
+* Parse-1.5.0/Parse-1.5.0-javadoc/com/parse/ParseFile.html
+* Parse-1.5.0/Parse-1.5.0-javadoc/com/parse/ParseGeoPoint.html
+* Parse-1.5.0/Parse-1.5.0-javadoc/com/parse/ParseImageView.html
+* Parse-1.5.0/Parse-1.5.0-javadoc/com/parse/ParseInstallation.html
+* Parse-1.5.0/Parse-1.5.0-javadoc/com/parse/ParseObject.html
+* Parse-1.5.0/Parse-1.5.0-javadoc/com/parse/ParsePush.html
+* Parse-1.5.0/Parse-1.5.0-javadoc/com/parse/ParseQuery.CachePolicy.html
+* Parse-1.5.0/Parse-1.5.0-javadoc/com/parse/ParseQuery.html
+* Parse-1.5.0/Parse-1.5.0-javadoc/com/parse/ParseQueryAdapter.OnQueryLoadListener.html
+* Parse-1.5.0/Parse-1.5.0-javadoc/com/parse/ParseQueryAdapter.QueryFactory.html
+* Parse-1.5.0/Parse-1.5.0-javadoc/com/parse/ParseQueryAdapter.html
+* Parse-1.5.0/Parse-1.5.0-javadoc/com/parse/ParseRelation.html
+* Parse-1.5.0/Parse-1.5.0-javadoc/com/parse/ParseRole.html
+* Parse-1.5.0/Parse-1.5.0-javadoc/com/parse/ParseTwitterUtils.html
+* Parse-1.5.0/Parse-1.5.0-javadoc/com/parse/ParseUser.html
+* Parse-1.5.0/Parse-1.5.0-javadoc/com/parse/ProgressCallback.html
+* Parse-1.5.0/Parse-1.5.0-javadoc/com/parse/PushService.html
+* Parse-1.5.0/Parse-1.5.0-javadoc/com/parse/RefreshCallback.html
+* Parse-1.5.0/Parse-1.5.0-javadoc/com/parse/RequestPasswordResetCallback.html
+* Parse-1.5.0/Parse-1.5.0-javadoc/com/parse/SaveCallback.html
+* Parse-1.5.0/Parse-1.5.0-javadoc/com/parse/SendCallback.html
+* Parse-1.5.0/Parse-1.5.0-javadoc/com/parse/SignUpCallback.html
+* Parse-1.5.0/Parse-1.5.0-javadoc/com/parse/class-use/
+* Parse-1.5.0/Parse-1.5.0-javadoc/com/parse/class-use/CountCallback.html
+* Parse-1.5.0/Parse-1.5.0-javadoc/com/parse/class-use/DeleteCallback.html
+* Parse-1.5.0/Parse-1.5.0-javadoc/com/parse/class-use/FindCallback.html
+* Parse-1.5.0/Parse-1.5.0-javadoc/com/parse/class-use/FunctionCallback.html
+* Parse-1.5.0/Parse-1.5.0-javadoc/com/parse/class-use/GetCallback.html
+* Parse-1.5.0/Parse-1.5.0-javadoc/com/parse/class-use/GetDataCallback.html
+* Parse-1.5.0/Parse-1.5.0-javadoc/com/parse/class-use/LocationCallback.html
+* Parse-1.5.0/Parse-1.5.0-javadoc/com/parse/class-use/LogInCallback.html
+* Parse-1.5.0/Parse-1.5.0-javadoc/com/parse/class-use/Parse.html
+* Parse-1.5.0/Parse-1.5.0-javadoc/com/parse/class-use/ParseACL.html
+* Parse-1.5.0/Parse-1.5.0-javadoc/com/parse/class-use/ParseAnalytics.html
+* Parse-1.5.0/Parse-1.5.0-javadoc/com/parse/class-use/ParseAnonymousUtils.html
+* Parse-1.5.0/Parse-1.5.0-javadoc/com/parse/class-use/ParseClassName.html
+* Parse-1.5.0/Parse-1.5.0-javadoc/com/parse/class-use/ParseCloud.html
+* Parse-1.5.0/Parse-1.5.0-javadoc/com/parse/class-use/ParseException.html
+* Parse-1.5.0/Parse-1.5.0-javadoc/com/parse/class-use/ParseFacebookUtils.html
+* Parse-1.5.0/Parse-1.5.0-javadoc/com/parse/class-use/ParseFile.html
+* Parse-1.5.0/Parse-1.5.0-javadoc/com/parse/class-use/ParseGeoPoint.html
+* Parse-1.5.0/Parse-1.5.0-javadoc/com/parse/class-use/ParseImageView.html
+* Parse-1.5.0/Parse-1.5.0-javadoc/com/parse/class-use/ParseInstallation.html
+* Parse-1.5.0/Parse-1.5.0-javadoc/com/parse/class-use/ParseObject.html
+* Parse-1.5.0/Parse-1.5.0-javadoc/com/parse/class-use/ParsePush.html
+* Parse-1.5.0/Parse-1.5.0-javadoc/com/parse/class-use/ParseQuery.CachePolicy.html
+* Parse-1.5.0/Parse-1.5.0-javadoc/com/parse/class-use/ParseQuery.html
+* Parse-1.5.0/Parse-1.5.0-javadoc/com/parse/class-use/ParseQueryAdapter.OnQueryLoadListener.html
+* Parse-1.5.0/Parse-1.5.0-javadoc/com/parse/class-use/ParseQueryAdapter.QueryFactory.html
+* Parse-1.5.0/Parse-1.5.0-javadoc/com/parse/class-use/ParseQueryAdapter.html
+* Parse-1.5.0/Parse-1.5.0-javadoc/com/parse/class-use/ParseRelation.html
+* Parse-1.5.0/Parse-1.5.0-javadoc/com/parse/class-use/ParseRole.html
+* Parse-1.5.0/Parse-1.5.0-javadoc/com/parse/class-use/ParseTwitterUtils.html
+* Parse-1.5.0/Parse-1.5.0-javadoc/com/parse/class-use/ParseUser.html
+* Parse-1.5.0/Parse-1.5.0-javadoc/com/parse/class-use/ProgressCallback.html
+* Parse-1.5.0/Parse-1.5.0-javadoc/com/parse/class-use/PushService.html
+* Parse-1.5.0/Parse-1.5.0-javadoc/com/parse/class-use/RefreshCallback.html
+* Parse-1.5.0/Parse-1.5.0-javadoc/com/parse/class-use/RequestPasswordResetCallback.html
+* Parse-1.5.0/Parse-1.5.0-javadoc/com/parse/class-use/SaveCallback.html
+* Parse-1.5.0/Parse-1.5.0-javadoc/com/parse/class-use/SendCallback.html
+* Parse-1.5.0/Parse-1.5.0-javadoc/com/parse/class-use/SignUpCallback.html
+* Parse-1.5.0/Parse-1.5.0-javadoc/com/parse/package-frame.html
+* Parse-1.5.0/Parse-1.5.0-javadoc/com/parse/package-summary.html
+* Parse-1.5.0/Parse-1.5.0-javadoc/com/parse/package-tree.html
+* Parse-1.5.0/Parse-1.5.0-javadoc/com/parse/package-use.html
+* Parse-1.5.0/Parse-1.5.0-javadoc/constant-values.html
+* Parse-1.5.0/Parse-1.5.0-javadoc/deprecated-list.html
+* Parse-1.5.0/Parse-1.5.0-javadoc/help-doc.html
+* Parse-1.5.0/Parse-1.5.0-javadoc/index-all.html
+* Parse-1.5.0/Parse-1.5.0-javadoc/index.html
+* Parse-1.5.0/Parse-1.5.0-javadoc/overview-tree.html
+* Parse-1.5.0/Parse-1.5.0-javadoc/package-list
+* Parse-1.5.0/Parse-1.5.0-javadoc/resources/
+* Parse-1.5.0/Parse-1.5.0-javadoc/resources/inherit.gif
+* Parse-1.5.0/Parse-1.5.0-javadoc/serialized-form.html
+* Parse-1.5.0/Parse-1.5.0-javadoc/style.css
+* Parse-1.5.0/Parse-1.5.0.jar
+* Parse-1.5.0/Parse-1.5.0.jar.properties
+* Parse-1.5.0/third_party_licenses.txt
+* ic_launcher-web.png
+* proguard-project.txt
+
+Replaced Jars with Dependencies:
+--------------------------------
+The importer recognized the following .jar files as third party
+libraries and replaced them with Gradle dependencies instead. This has
+the advantage that more explicit version information is known, and the
+libraries can be updated automatically. However, it is possible that
+the .jar file in your project was of an older version than the
+dependency we picked, which could render the project not compileable.
+You can disable the jar replacement in the import wizard and try again:
+
+android-support-v4.jar => com.android.support:support-v4:+
+
+Moved Files:
+------------
+Android Gradle projects use a different directory structure than ADT
+Eclipse projects. Here's how the projects were restructured:
+
+* AndroidManifest.xml => app/src/main/AndroidManifest.xml
+* assets/ => app/src/main/assets/
+* libs/Parse-1.5.0.jar => app/libs/Parse-1.5.0.jar
+* res/ => app/src/main/res/
+* src/ => app/src/main/java/
+
+Next Steps:
+-----------
+You can now build the project. The Gradle project needs network
+connectivity to download dependencies.
+
+Bugs:
+-----
+If for some reason your project does not build, and you determine that
+it is due to a bug or limitation of the Eclipse to Gradle importer,
+please file a bug at http://b.android.com with category
+Component-Tools.
+
+(This import summary is for your information only, and can be deleted
+after import once you are satisfied with the results.)
